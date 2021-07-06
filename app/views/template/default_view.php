@@ -16,7 +16,7 @@
     </nav>
     <main>
         <?php
-        include_once 'app' . DIRECTORY_SEPARATOR . 'views' . DIRECTORY_SEPARATOR . $pageView;
+        include_once 'app' . DIRECTORY_SEPARATOR . 'views' . DIRECTORY_SEPARATOR . $pageFile;
         ?>
     </main>
     <footer>
