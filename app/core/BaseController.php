@@ -4,7 +4,7 @@
 namespace core;
 
 
-class BaseController
+abstract class BaseController
 {
-
+    abstract public function index();
 }
